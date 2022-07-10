@@ -1,7 +1,4 @@
 {
-  "name": "react-vite-app",
-  "private": true,
-  "version": "0.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,12 +10,9 @@
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
     "@fontsource/inter": "^4.5.11",
-    "@mui/material": "^5.8.7",
     "d3": "^7.6.1",
-    "framer-motion": "^6.4.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-merge-refs": "^2.0.1",
     "recharts": "^2.1.12"
   },
   "devDependencies": {

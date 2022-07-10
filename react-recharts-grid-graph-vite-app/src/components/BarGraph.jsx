@@ -11,7 +11,7 @@ import {
   Legend,
   ResponsiveContainer,
 } from 'recharts';
-import {mergeRefs} from 'react-merge-refs';
+
 const data = [
   {
     name: 'Page A',
